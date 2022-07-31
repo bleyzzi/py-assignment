@@ -1,6 +1,5 @@
 # Python assignment
 - Read whole document before making any changes.
-# Details
 ## Code
 - Don't use relative imports.
 - Indent with 4 spaces. Use double quotes by default. Follow PEP8 naming conventions: 
