@@ -57,11 +57,12 @@ Implement a web parser CLI utility.
 ```
 key1 = value
 key2 = foo
+
 # Has to produce
-{
-    "key1": "value",
-    "key2": "foo"
-}
+# {
+#    "key1": "value",
+#    "key2": "foo"
+# }
 ```
 - `Config` recieves filename of a file to be parsed throuh constructor.
 - `get()` returns parsed dictionary.
